@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Script stitched together from several sources on the web
-# It fixes mouse wheel jumping too much on Ubuntu 18.4
+# It fixes mouse wheel jumping too much on Ubuntu 18.04
 # Licens GPL 3.0
 
 import evdev
